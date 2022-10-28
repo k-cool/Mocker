@@ -1,0 +1,7 @@
+dist/**
+aws/**
+example/**
+tests/**
+src/specific/**
+src/original/**
+src/tagCode.js
