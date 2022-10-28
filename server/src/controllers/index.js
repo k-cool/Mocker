@@ -1,3 +1,3 @@
-import { createCtrl } from "./create.ctrl";
+import * as apiCtrl from "./api.ctrl";
 
-export { createCtrl };
+export { apiCtrl };

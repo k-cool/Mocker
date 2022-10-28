@@ -1,8 +1,8 @@
 import express from "express";
-import { createCtrl } from "../controllers";
+import { apiCtrl } from "../controllers";
 
 const router = express.Router();
 
-router.post("/create", createCtrl);
+router.post("/create", apiCtrl.create);
 
 export default router;

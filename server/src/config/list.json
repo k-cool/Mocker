@@ -1,1 +1,12 @@
-{}
+{
+  "description": "created test api lists",
+  "lists": [
+    {
+      "id": 1666963172451,
+      "name": "simple test api",
+      "method": "GET",
+      "urlPath": "/simpleTest",
+      "path": "src/data/1666963172451/1666963172451.js"
+    }
+  ]
+}

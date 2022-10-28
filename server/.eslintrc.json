@@ -36,6 +36,7 @@
     "no-alert": "off",
     "eqeqeq": "off",
     "indent": "off",
-    "import/prefer-default-export": "off"
+    "import/prefer-default-export": "off",
+    "object-curly-newline": "off"
   }
 }
